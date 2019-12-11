@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react_add-todo-form/static/css/main.c66c4450.chunk.css",
-    "main.js": "/react_add-todo-form/static/js/main.22db5397.chunk.js",
-    "main.js.map": "/react_add-todo-form/static/js/main.22db5397.chunk.js.map",
+    "main.js": "/react_add-todo-form/static/js/main.701af343.chunk.js",
+    "main.js.map": "/react_add-todo-form/static/js/main.701af343.chunk.js.map",
     "runtime~main.js": "/react_add-todo-form/static/js/runtime~main.9d188fa2.js",
     "runtime~main.js.map": "/react_add-todo-form/static/js/runtime~main.9d188fa2.js.map",
     "static/js/2.ea31de94.chunk.js": "/react_add-todo-form/static/js/2.ea31de94.chunk.js",
     "static/js/2.ea31de94.chunk.js.map": "/react_add-todo-form/static/js/2.ea31de94.chunk.js.map",
     "index.html": "/react_add-todo-form/index.html",
-    "precache-manifest.4e0f71225ff3c95f3220f87abbcd67ac.js": "/react_add-todo-form/precache-manifest.4e0f71225ff3c95f3220f87abbcd67ac.js",
+    "precache-manifest.84c091686bc7fb7aba4409e8f27d69eb.js": "/react_add-todo-form/precache-manifest.84c091686bc7fb7aba4409e8f27d69eb.js",
     "service-worker.js": "/react_add-todo-form/service-worker.js",
     "static/css/main.c66c4450.chunk.css.map": "/react_add-todo-form/static/css/main.c66c4450.chunk.css.map"
   }
